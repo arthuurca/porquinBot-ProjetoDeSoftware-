@@ -1,0 +1,15 @@
+# Interface do Telegram (v20+ com suporte a asyncio)
+python-telegram-bot>=20.0
+
+# Gestão de variáveis de ambiente (Token do Bot)
+python-dotenv
+
+# Banco de dados e ORM (Mapeamento Objeto-Relacional para POO)
+SQLAlchemy
+
+# Testes de Unidade e Integração
+pytest
+
+# Visualização de dados (Para gráficos de gastos/receitas)
+matplotlib
+pandas
